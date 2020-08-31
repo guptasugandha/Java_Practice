@@ -20,7 +20,7 @@ public class ReverseString {
         public static void main(String[] args)
         {
             ReverseString obj = new ReverseString();
-            obj.reverseWordInMyString("Be Happy and Stay Motivated");
-            obj.reverseWordInMyString("This is Mohsin who love coding");
+            obj.reverseWordInMyString("ConsultAdd");
+            obj.reverseWordInMyString("Java Assignment");
         }
     }
